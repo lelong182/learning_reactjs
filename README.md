@@ -18,9 +18,6 @@ npm install
 npm start
 ```
 
-## Next update
-- React router
-- Redux
 
 ## Reference links
 - [ReactJS Basic (Video)](https://www.youtube.com/playlist?list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS)
@@ -29,3 +26,6 @@ npm start
 - [Why use Stateless Component](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc)
 - [Prop Types](https://github.com/reactjs/prop-types)
 - [React Devtool](https://github.com/facebook/react-devtools)
+
+
+## More demo
