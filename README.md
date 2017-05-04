@@ -29,3 +29,4 @@ npm start
 
 
 ## More demo
+- [Redux Basic](https://github.com/lelong182/learning_reactjs/tree/master/redux_demo)
