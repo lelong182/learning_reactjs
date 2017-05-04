@@ -22,4 +22,5 @@ npm start
 - [Usage with React](http://redux.js.org/docs/basics/UsageWithReact.html)
 - [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 - [Spread operator](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Operators/Spread_operator)
+- [Object Assign](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Object/assign)
 - [Call & Apply Javascript](https://toidicodedao.com/2016/03/08/series-javascript-sida-bind-call-va-apply-trong-javascript/)
