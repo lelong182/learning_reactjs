@@ -32,3 +32,4 @@ npm start
 - [Redux Basic](https://github.com/lelong182/learning_reactjs/tree/master/redux_demo)
 - [Basic Demo with Create React App](https://github.com/lelong182/learning_reactjs/tree/master/react_app_demo)
 - [React Router v4](https://github.com/lelong182/learning_reactjs/tree/master/react_router_demo)
+- [Student App Demo (Usage CRA)](https://github.com/lelong182/learning_reactjs/tree/master/student_app_demo)
